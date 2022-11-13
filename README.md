@@ -19,6 +19,7 @@
    <li>The Shawshank Redemption</li>
    <li>P.S. I Love You </li>
    <li>Forrest Gump</li>
+   <li>The Green Mile</li>
  </ul>
  <h2>Sevdiğim Diziler</h2>
 <ul>
