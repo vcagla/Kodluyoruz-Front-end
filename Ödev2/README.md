@@ -40,6 +40,7 @@
  <h1>Sevdiğim Diziler</h1>
  <h2>Avrupa Yakası</h2>
  <img src="https://m.media-amazon.com/images/M/MV5BZDEzNzk4YmQtYWRhMi00ZGRmLTg2M2YtZjM2YTY0MWE1YWYwXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_FMjpg_UX300_.jpg" alt="Avrupa Yakası">
-     <!-- link kısmı -->
+     <!-- görsel kısmı -->
+     <p>Avrupa Yakası, yapımcılığını Sinan Çetin'in ve senaristliğini Gülse Birsel'in üstlendiği, 2004-2009 yılları arasında atv'de yayımlanan durum komedisi türündeki Türk televizyon dizisidir.</p>
   </body>
 </html>
