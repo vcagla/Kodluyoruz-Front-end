@@ -1,0 +1,53 @@
+    h1{
+        background: -webkit-linear-gradient(45deg,rgb(165, 7, 67), rgb(255, 174, 186), rgb(243, 223, 255));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 60px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+
+    }
+    /* Renk geçişli başlık */
+
+u{
+    color: palevioletred;
+}
+h3{
+    color:darkslategray;
+}
+.fw-bold.color-blue{
+    font-weight: bold;
+    color:blue;
+}
+p{
+    color:darkslategray;
+    font-size:20px;    
+}
+h2{
+    color: palevioletred;
+}
+.box1{
+    /* background-color: lavender; */
+    height: 30px;
+    width: 150px;
+    padding:3%;
+    margin-left:40%;
+    margin-bottom: 5%;
+    margin-top: 0%;
+    border-radius: 20px;
+
+}
+.box2{
+float:right;
+
+}
+.box3{
+    float:left;
+} 
+/* .box4{
+    background-color: dimgray;
+    height: 20px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}  */
