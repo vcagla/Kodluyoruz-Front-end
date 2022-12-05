@@ -1,0 +1,41 @@
+/* gmail ve images */
+.box1{
+margin-left:85%;
+ margin-top:auto;
+/* background-color: brown; */
+/* border-bottom-left-radius: 30%; */
+}
+/* pr.img */
+.box2{
+margin-left:10%;
+}
+/* google logo */
+.box3{
+    padding-top:100px;
+}
+/* uygulamalar */
+.box4{
+margin-right: 15%;
+padding-left: 95%;
+
+}
+.box5{
+    margin-top: 10%;
+    padding:20px; 
+    background-color: blue;
+
+}
+.box10{
+    background-color:rgb(240, 239, 239);
+    /* padding-left: 37px;
+    margin-left:90%; */
+    
+    margin-top: 300px;
+
+}
+ .box11{
+    background-color:rgb(240, 239, 239);
+    padding-left: 80%;
+    text-decoration-color: darkgrey;
+
+} 
