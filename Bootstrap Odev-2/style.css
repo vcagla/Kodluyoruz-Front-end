@@ -1,0 +1,22 @@
+body{
+    padding-top: 15px;
+}
+nav{
+    height: 54px;
+    background-color:white;
+    margin-top: -20px;
+}
+input{
+    text-align: center;
+    margin-left: 250px;
+}
+.logo{
+    
+    margin-left: 50px;
+}
+span{
+    color: black;
+}
+#box{
+    margin-left: 280px;
+}
